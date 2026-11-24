@@ -3,7 +3,7 @@
     "id": "cupertino",
     "restype": "res_pack",
     "name": "图标包 Cupertino",
-    "description": "iOS6 风格 图标包 Cupertino\n\n* 本图标包当前仅适配以下设备：【小米手环 10Pro、11】，购买前请知悉 !!!\n虚拟商品，原则上不支持退款。\n\n精美拟物风图标包「Cupertino」\n\n- 建议配合「相册表盘」Cupertino 食用，效果更佳~ 见介绍图",
+    "description": "iOS6 风格 图标包 Cupertino\n\n- 本图标包当前仅适配以下设备：【小米手环 10Pro、11】，购买前请知悉 !!!\n\n- 虚拟商品，原则上不支持退款。\n\n- 精美拟物风图标包「Cupertino」\n\n- 建议配合「相册表盘」Cupertino 食用，效果更佳~ 见介绍图",
     "preview": [
       "media/preview_0.png",
       "media/preview_1.png",
@@ -55,21 +55,7 @@
       "required": [
         {
           "type": "resource",
-          "id": "ng.lst.corona"
-        },
-        {
-          "type": "resource",
           "id": "canopus_manager"
-        }
-      ],
-      "recommended": [
-        {
-          "type": "resource",
-          "id": "canopus_corona"
-        },
-        {
-          "type": "resource",
-          "id": "979808744800"
         }
       ]
     }
